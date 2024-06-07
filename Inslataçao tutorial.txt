@@ -1,0 +1,26 @@
+Olá para iniciar nosso script de sinais siga esse tutorial
+
+OBS= Para adquir-lo entre contato conosco
+nosso contato esta na pagina
+
+
+
+Tutorial Para PC e Termux Para Android =
+
+
+
+CD ( LOCAL DO ARQUIVO )
+
+# Instalar requirementos!
+
+PIP INSTALL TELEBOT
+
+PIP INSTALL PYTHON
+
+PIP INSTALL PYTZ
+
+PIP INSTALL REQUESTS
+
+PYTHON SINAIS.PY
+
+E PRONTO INICIADO!
